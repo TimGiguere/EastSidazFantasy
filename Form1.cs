@@ -112,7 +112,7 @@ namespace EastSidazFantasy
             }
             string sSql = "UPDATE tblOAuth SET full_oauth_token = ?, " + //\"" + m_sFullOauth_token + "\", " +
                           "full_oauth_token_secret = ?, " + // \"" + m_sFullOauth_token_secret + "\", " +
-                          "oauth_session_handle = ?, " + // \"" + m_sOauth_Session_Handle + "\" " +
+                          "oauth_session_handle = ? " + // \"" + m_sOauth_Session_Handle + "\" " +
                           "WHERE oauth_token = ?"; // \"" + m_sOauth_token + "\"";
             //OleDbCommand pCommand = new OleDbCommand(sSql, m_pConnection);
             OdbcCommand pCommand = new OdbcCommand(sSql, m_pConnection);
