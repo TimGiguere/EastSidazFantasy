@@ -1,0 +1,2 @@
+C:\Development\EastSidazFantasy\obj\Release\EastSidazFantasy.exe
+C:\Development\EastSidazFantasy\obj\Release\EastSidazFantasy.pdb

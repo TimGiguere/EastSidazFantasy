@@ -1,0 +1,2 @@
+C:\Development\EastSidazFantasy\obj\Debug\EastSidazFantasy.exe
+C:\Development\EastSidazFantasy\obj\Debug\EastSidazFantasy.pdb
